@@ -106,6 +106,10 @@ PS: Не работает в данном редакторе.
 ### Ссылки
 
 Источник [здесь](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/#stk-1)
+
+### Изображения
+
+Рисунок ![собаки](https://ru.pinterest.com/pin/16607092371663992/)
        
 
 
